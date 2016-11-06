@@ -11,7 +11,7 @@
 <body>
 
     <header>
-        <h1>IMT1031 - GrProg enhanced</h1>
+        <h1>IMT1031 - GrProg Enhanced</h1>
     </header>
 
     <div class="mainblock">

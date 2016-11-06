@@ -2,11 +2,11 @@
 
 <?php
 	$folders = array(
-		'eksempel',
-		'extra',
-		'extramen',
-		'uke_oppg',
-		'uke_losn' 
+		'1_eksempel',
+		'2_extra',
+		'3_extramen',
+		'4_uke_oppg',
+		'5_uke_losn' 
 		);
 
 	echo 'This is PHP script';
@@ -27,9 +27,17 @@
 
 		foreach ($folders as $folder) {
 
-			echo '<h2>' . $folder . '</h2><br/>';
+			echo '<h2>' . $folder . '</h2>';
+			$files = scandir('katalogen/' . $folder);
+
+			foreach($files as $file) {
+				if($file == '.' || $file == '..' || $file == '.DS_Store'){
+					continue;
+				}
+				echo '<p>' . $file . '</p>'; 
+			}
 		}
- 		// $files = scandir('katalogen/' + $folder); 
+
 
 		?>
 
