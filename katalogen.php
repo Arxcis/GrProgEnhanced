@@ -1,13 +1,15 @@
 
 
-<?php 
-	$folders = array(
+<?php
+	$folders = [
+
 		'eksempel',
 		'extra',
 		'extramen',
 		'uke_oppg',
-		'uke_losn',
-	);
+		'uke_losn' 
+		];
+
 	echo 'This is PHP script2';
 ?>
 
@@ -23,17 +25,19 @@
 		
 		<?php 
 
-		foreach ($folders as $folder) {
+		$len = count($folders);
 
-			echo '<h2> ' + $folder + '</h2>';
+ 		for ($i = 0; $i < $len; $i++) {
+
+ 			$folders[$i];
+ 		
+		}
 
 /*			$files = scandir('katalogen/' + $folder);
-
 			foreach ($files as $file) {
-
 			}
 */
-		}
+
 
 		?>
 
