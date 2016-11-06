@@ -67,24 +67,31 @@ a {
 
  /* Files */ 
 
-#lefiles {
+.lefiles {
     flex: 6;
-    align-items: center;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 .file {
-    width:100px;
-    height:100px;
+    width:150px;
+    height:150px;
     background-color: #34495e;
     border-radius: 10px;
     margin:5px;
     padding:10px;
-    color: #ecf0f1;
-    display: flex;
+    color: white;
+    display: none;
     flex-direction: column;
     align-items: center;
     cursor: hand;
-    display:none;
+}
+
+.fileheader {
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+
 }
