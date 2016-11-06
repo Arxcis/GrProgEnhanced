@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H11_1.TXT
+
+//  L›sning til eksamen i C++, 6.desember 2011, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2011.
+
+
+
+
+A)  Svar:   T L
+            D L
+            U T
+            R
+            E
+
+
+
+
+
+B)  Svar:   Chelsea H 3   Arsenal A 5
+            0
+            1 0
+            K F
+            1

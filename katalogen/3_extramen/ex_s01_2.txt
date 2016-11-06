@@ -1,0 +1,25 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S01_2.TXT
+
+//  L›sningsforslag til eksamen i C++, 17.august 2001, oppgave 2.
+//  Laget av Frode Haug, HiG, august 2001.
+
+
+
+A)  Svar:   10:  1  2  4  8  16
+             8:  1  2  4  8
+             6:  1  2  4  8
+             4:  1  2  4
+             2:  1  2
+
+
+
+
+
+B)  Svar:    MOLLA
+             MOLOA  O
+             MOTOA
+             HALLO  O
+             HOLLO
+             
+             
+             

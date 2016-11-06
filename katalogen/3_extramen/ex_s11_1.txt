@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S11_1.TXT
+
+//  L›sning til kontinuasjoneksamen i C++, 11.august 2011, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2011.
+
+
+
+
+A)  Svar:   L U
+            T A
+            S G
+            D -
+            E G
+
+
+
+
+
+B)  Svar:   2-EMIRATES: AA   1-STADIUM: BB
+            0 0
+            9 10
+            1 4
+            0

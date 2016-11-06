@@ -1,0 +1,24 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_S03_2.TXT
+
+//  L›sningsforslag til eksamen i C++, 9.august 2003, oppgave 2.
+//  Laget av Frode Haug, HiG, august 2003.
+
+
+
+
+A)  Svar:
+             3:  1
+             7:  1
+             11: 1 4
+             15: 1 4 7
+             19: 1 4 7
+
+
+
+
+B)  Svar:    K T U J S S E
+             T A
+             R 65
+             O A I
+             N
+

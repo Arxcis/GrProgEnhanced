@@ -1,0 +1,25 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_S05_1.TXT
+
+//  Løsning til kontinuasjonseksamen i C++, 9.august 2005, oppgave 1.
+//  Laget av Frode Haug, HiG, juni 2005.
+
+
+
+
+
+A)  Svar:    RK
+             RK
+             >
+             <
+             I
+
+
+
+
+
+
+B)  Svar:    MAKRELLSTIMEN    45
+             BANAN-MATHIESEN  44
+             1
+             1
+             N

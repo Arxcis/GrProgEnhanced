@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H12_1.TXT
+
+//  L›sning til eksamen i C++, 4.desember 2012, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2012.
+
+
+
+
+A)  Svar:   D
+            -
+            E Y
+            T B
+            L I
+
+
+
+
+
+B)  Svar:   Highbury: 38000  Emirates: 60000
+            NorthBank
+            0 1
+            EmiratesStadium: 60000
+            0 1

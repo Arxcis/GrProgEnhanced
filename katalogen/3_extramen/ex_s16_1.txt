@@ -1,0 +1,25 @@
+﻿
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S16_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, august 2016, oppgave 1.
+//  Laget av Frode Haug, NTNU
+
+
+
+
+
+A)  Svar:   L I S
+            I -
+            G G
+            A N
+            H I
+
+
+
+
+
+B)  Svar:   Mysuseter,2674 Lom,2686 Ustaoset,3539
+            12
+            s m
+            Mysuseter,12
+            s s

@@ -1,0 +1,27 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_H98_2.TXT
+
+//  L›sningsforslag til eksamen i C++, 15.desember 1998, oppgave 2.
+//  Laget av Frode Haug, HIG, desember 1998.
+
+
+
+
+A)  Svar:    G:  2  3  4  5  6  7
+             H:  2  4  6  8  10  12
+             I:  2  5  8  11  14  17
+             J:  2  6  10  14  18  22
+
+
+
+
+B)  Svar:    Av Sau har du 7 stk.
+             Du har likt eller flere Kuer enn Griser.
+
+
+
+
+C)  Svar:    A B C D E F G H I J K L 
+             C D E F
+             E I H 72
+             C D G F E H I
+             F C D G B 

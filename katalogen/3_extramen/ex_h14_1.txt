@@ -1,0 +1,22 @@
+﻿//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H14_1.TXT
+
+//  L›sning til eksamen i C++, 2.desember 2014, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2014.
+
+
+
+
+A)  Svar:   D -
+            - A
+            A -
+            D -
+            - U
+
+
+
+
+B)  Svar:   Ipswich: PortmanRoad (30300)   WestHam: BoleynGround (35300)
+            Chelsea
+            1 0
+            WestHam: BoleynGround/UptonPark (35300)
+            WestHam: PortmanRoad (65600)

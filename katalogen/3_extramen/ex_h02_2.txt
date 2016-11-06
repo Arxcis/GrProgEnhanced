@@ -1,0 +1,22 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_H02_2.TXT
+
+//  L›sningsforslag til eksamen i C++, 19.desember 2002, oppgave 2.
+//  Laget av Frode Haug, HiG, desember 2002.
+
+
+
+
+A)  Svar:    E
+             A
+             6:  A
+             11: A
+             14: E
+
+
+
+
+B)  Svar:    E
+             L
+             R
+             I
+             85    (= ASCII-nummeret til 'U')

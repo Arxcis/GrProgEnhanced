@@ -1,0 +1,23 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_S02_2.TXT
+
+//  L›sningsforslag til eksamen i C++, 9.august 2002, oppgave 2.
+//  Laget av Frode Haug, HiG, juli 2002.
+
+
+
+
+A)  Svar:    P
+             E
+             M
+             A
+             R
+
+
+
+
+
+B)  Svar:    TANTE   T
+             BROR    X
+             BESSA   F
+             BABY    Z
+             BESSANT N

@@ -1,0 +1,26 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_H04_1.TXT
+
+//  L›sning til eksamen i C++, 21.desember 2004, oppgave 1.
+//  Laget av Frode Haug, HiG, desember 2004.
+
+
+
+
+
+
+A)  Svar:    FRODEH ER SPESIELT FESTLIG
+             M I
+             R
+             M
+             N
+
+
+
+
+
+
+B)  Svar:    GOSSINGUTT      44
+             SLAPPFISK       19
+             0
+             1
+             X

@@ -1,0 +1,45 @@
+
+< Deklarere EN struct - som i oppgaven >
+
+< Definer variable >
+
+
+< Lese lovlig distanse >
+
+< Beregne antall målpasseringer >
+
+do  {
+
+   < Nullstille struct'ers data >
+
+   while ( < begge to ikke i mål > )  {
+ 
+      < Lese aktuelt løpernummer (1,2) >
+
+      < Kopiere aktuell løper over i "temp" >
+
+      if ( < ikke gått i mål > )  {
+    
+         < Lese inn lovlig mm, ss, hh og >= 8 >
+
+         < Skrive rundetid for "temp" >
+
+         < Oppdatere "temp"s nye tid og ant.passeringer >
+
+         if ( < gått i mål > )  < skriv "MÅLPASSERING" >
+
+         < Kopiere "temp" til aktuell løper >
+
+      } else
+
+        < Melding om at "allerede i mål" >
+
+   }
+
+   < Finne ut og skrive parets vinner >
+
+   < Skrive vedkommendes tid i mm:ss:hh >
+
+   < Flere par (j/n)? >
+
+} while ( < flere par? > )

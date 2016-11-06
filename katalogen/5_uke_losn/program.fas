@@ -1,0 +1,44 @@
+Fil:  FRODEH \ CPP \ LAB_LOSN \ PROGRAM.FAS
+
+
+Løsningsforslag til oppgaven ang†ende "Programmering"
+
+
+
+Oppgaven:
+---------
+Lag pseudokode (vha. modularisering og skrittvis forfining) for et
+system holder orden på et musikkarkiv (mp3, CD'er, plater og kassetter).
+
+
+
+Løsningsforslag:
+---------------
+- Lagrer KUN CDer (IKKE mp3, LP eller MC). Lagrer IKKE l†ttitlene.
+
+- Lagre om hvert element:  Artistnavn, tittel, årstall, kategori/sjangre
+                           (+ evt. medie)
+
+- Datastruktur:  Array m/recorder
+
+- Moduler:  - Ny musikk
+            - Søk navn
+            - Søk tittel
+            - Oversikt (over HELE arkivet)
+          ( - Slett enhet )
+          ( - Rediger enhet, f.eks. også fått på MC, CD eller LP )
+
+
+- "Ny musikk":
+      if <Plass til flere i kartoteket>
+         <Lese artistnavn>
+         <Lese tittel>
+         if <Artist OG tittel IKKE finnes>
+             <Les inn resten av datene>
+             <Legg inn i kartoteket>
+         else <Melding om at finnes allerede>
+      else <Melding om at fullt>
+
+
+
+- Skriv resten selv ...................!

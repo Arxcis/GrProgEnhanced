@@ -1,0 +1,22 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S08_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, 12.august 2008, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2008.
+
+
+
+
+A)  Svar:   N N
+            A J
+            14 R R
+            STORHAMARJENTENE-HERJET JET
+            O
+
+
+
+
+B)  Svar:   LL  II  77
+            SS  LL  33
+            II
+            0 0 1
+            S I L

@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S07_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, 8.august 2007, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2007.
+
+
+
+
+A)  Svar:    K S 
+             U N
+             E I
+             L Y
+             7 A
+
+
+
+
+B)  Svar:   Mildrid Svanhild
+            c
+            1
+            Mildrid
+            K1: Mildrid     #: 4
+

@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S10_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, 13.august 2010, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2010.
+
+
+
+
+A)  Svar:   I O
+            R D
+            H 29
+            C E
+            I E
+
+
+
+
+
+B)  Svar:   K1: 11 31 K2: 33 21 K3: 32 22
+            K2: 33 11
+            1 0
+            1 3
+            30 10

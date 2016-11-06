@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H08_1.TXT
+
+//  L›sning til eksamen i C++, 2.desember 2008, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2008.
+
+
+
+
+A)  Svar:   R E
+            N E
+            E E
+            T H
+            E G
+
+
+
+
+B)  Svar:   1989: QPR
+            2006: 2x Highbury
+            2001: Sommer
+            0 1 0
+            2001: Ferie
+

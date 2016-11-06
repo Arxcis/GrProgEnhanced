@@ -1,0 +1,24 @@
+﻿//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H15_1.TXT
+
+//  L›sning til eksamen i C++, 1.desember 2015, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2015.
+
+
+
+
+
+A)  Svar:   L E N
+            E S
+            - T
+            S G E
+            E D A
+
+
+
+
+
+B)  Svar:   HiG: 3500  HiST: 9000
+            NTNY: 37700
+            NTNU: 37700
+            1  0
+            NTNY = NTNU+HiST+HiAls+HiG:  37700

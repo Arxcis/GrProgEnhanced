@@ -1,0 +1,25 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H10_1.TXT
+
+//  L›sning til eksamen i C++, 7.desember 2010, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2010.
+
+
+
+
+A)  Svar:   N E
+            E N
+            I A
+            B M
+            R O
+
+
+
+
+
+
+B)  Svar:   20-Vinner: TOT   1-Taper: ARS
+            0 1
+            5 4
+            7 6
+            0
+

@@ -1,0 +1,22 @@
+﻿//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S14_1.CPP
+
+//  Løsning til kontinuasjonseksamen i C++, 8.august 2014, oppgave 1.
+//  Laget av Frode Haug, HiG, juli 2014.
+
+
+
+A)  Svar:   S
+            O
+            N
+            S
+            N
+
+
+
+
+
+B)  Svar:   Blindern 304  Lahaugmoen 312
+            Liverpool 1  Arsenal 3
+            0
+            1
+            4 304

@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S13_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, 16.august 2013, oppgave 1.
+//  Laget av Frode Haug, HiG, juli 2013.
+
+
+
+
+A)  Svar:   R
+            E
+            A
+            T R
+            E L
+
+
+
+
+
+B)  Svar:   Boasson, Sky
+            0 1
+            0 1 1 1 
+            Boasson Hagen, Sky
+            3 10 -4

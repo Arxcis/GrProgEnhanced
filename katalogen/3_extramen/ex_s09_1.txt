@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S09_1.TXT
+
+//  L›sning til kontinuasjonseksamen i C++, 14.august 2009, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2009.
+
+
+
+
+A)  Svar:   E E
+            R O
+            E P
+            M A
+            R I
+
+
+
+
+
+B)  Svar:   2: Rangers
+            1: Arsenal
+            :-(
+            22
+            24

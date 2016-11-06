@@ -1,0 +1,23 @@
+﻿//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H13_1.TXT
+
+//  L›sning til eksamen i C++, 3.desember 2013, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2013.
+
+
+
+
+A)  Svar:   T
+            -
+            F
+            A
+            -
+
+
+
+
+
+B)  Svar:   1985-1988: MK-JS-JI-AC-GF-TW
+            Alan Clark spilte IKKE i DS i perioden 1977-1980
+            Alan Clark spilte i DS i perioden 1980-1982
+            1985-1988: MK-JS-JI-AC-GF-TW-CW-JdK
+            AFC

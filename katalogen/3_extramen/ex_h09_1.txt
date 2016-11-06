@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H09_1.TXT
+
+//  L›sning til eksamen i C++, 7.desember 2009, oppgave 1.
+//  Laget av Frode Haug, HiG, november 2009.
+
+
+
+
+A)  Svar:   T M
+            O 32
+            M 44
+            Y U
+            H R
+
+
+
+
+
+B)  Svar:   Cesc   Persie   festlig
+            Dream   Murphys   ikke festlig
+            1
+            per   Per   ikke festlig
+            per   Per   ikke festlig

@@ -1,0 +1,25 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_H05_1.TXT
+
+//  Løsning til eksamen i C++, 19.desember 2005, oppgave 1.
+//  Laget av Frode Haug, HiG, desember 2005.
+
+
+
+
+
+A)  Svar:    B A
+             E A
+             B -
+             B A
+             - B
+
+
+
+
+
+
+B)  Svar:   ManU - Taper
+            Arsenal - Vinner
+            X
+            2-0
+            ManUUU-UUU

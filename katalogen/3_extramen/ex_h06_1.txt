@@ -1,0 +1,25 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_H06_1.TXT
+
+//  Løsning til eksamen i C++, 20.desember 2006, oppgave 1.
+//  Laget av Frode Haug, HiG, desember 2006.
+
+
+
+
+
+A)  Svar:    10 A 12 S
+             1: S
+             6: A
+             12: R
+             4: H
+
+
+
+
+
+B)  Svar:   Petter Henning
+            m
+            1
+            Petter
+            K1: Petter      #: 3
+

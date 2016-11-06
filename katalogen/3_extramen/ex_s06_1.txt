@@ -1,0 +1,24 @@
+//  Fil:  FRODEH \ C++ \ EXTRAMEN \ EX_S06_1.TXT
+
+//  Løsning til eksamen i C++, 9.august 2006, oppgave 1.
+//  Laget av Frode Haug, HiG, mai 2006.
+
+
+
+
+
+A)  Svar:    L M
+             L D
+             L D
+             L L
+             L D
+
+
+
+
+
+B)  Svar:   I O L E
+            D D
+            X
+            B I L D U M M I
+            U I

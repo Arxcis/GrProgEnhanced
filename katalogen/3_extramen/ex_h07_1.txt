@@ -1,0 +1,23 @@
+//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_H07_1.TXT
+
+//  L›sning til eksamen i C++, 20.desember 2007, oppgave 1.
+//  Laget av Frode Haug, HiG, desember 2007.
+
+
+
+
+A)  Svar:   K -
+            B A
+            28 BE
+            E
+            K
+
+
+
+
+
+B)  Svar:   AA  BB  22
+            CC  AA  99
+            CC
+            0 1 0
+            B A C

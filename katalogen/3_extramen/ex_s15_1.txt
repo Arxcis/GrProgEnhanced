@@ -1,0 +1,20 @@
+﻿//  Fil:   FRODEH \ C++ \ EXTRAMEN \ EX_S15_1.CPP
+
+//  L›sning til eksamen i C++, 12.august 2015, oppgave 1.
+//  Laget av Frode Haug, HiG, juni 2015.
+
+
+A)  Svar:   O R
+            G A
+            L L
+            G E
+            I R
+
+
+
+
+B)  Svar:   Brunello, 1997 (Toscana)   Barolo, 2004 (Piemonte)
+            0 1
+            1 0
+            1 0
+            Barolo, 2004 (Piemonte)

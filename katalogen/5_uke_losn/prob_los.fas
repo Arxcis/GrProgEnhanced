@@ -1,0 +1,57 @@
+Fil:  FRODEH \ CPP \ LAB_LOSN \ PROB_LOS.FAS
+
+
+Løsningsforslag til 2 av de 3 oppgavene angående "Problemløsing"
+
+
+
+Skriv algoritmer (vha. skrittvis forfining) for å:
+
+
+a) beregne en trekants areal:
+      <Finn/definer trekantens grunnlinje>
+      <Mål eller avles dets lengde>
+      <Finn/definer trekantens høyde>
+      <Mål eller avles dets lengde>
+      <Finn relevant formel: (g*h)/2>
+      <Sett inn i formelen, og regn ut svaret>
+   NB: Forutsetter at vi IKKE må beregnes sinus- og cosinus-setninger,
+       pytagoras-l‘resetning el.l. for å finne lengde/høyde.
+
+
+
+b) finne fram til og bøte på hullet i et sykkeldekk:
+      1 <Skaff saker: 2x skrutrekk, skifte-/fastnøkkel, vannbalje, bøtesaker, pumpe>
+      2 <Hent/finn sykkelen, og snu den opp-ned>
+      3 <Ta av FORhjulet, enten ved å skru eller "klipse" av>
+      4 <Smett dekket av felgen vha. skrutrekkerne>
+      5 <Skru ut ventil og festering>
+      6 <Ta ut slangen>
+      7 <Kan hullet sees?>
+      8    <Ja:  gå til pkt.12>
+      9    <Nei: Fyll vann i en balje>
+     10         <Fyll slangen m/luft>
+     11         <Beveg slangen gjennom vannet til du ser bobler fra hullet>
+     12 <Kan hullet bøtes:
+     13    <Nei: Kjøp ny slange. Gå til pkt.22>
+     14 <Avmerk hullet>
+     15 <Finn fram bøtesaker>
+     16 <Puss med fint sandpapir rundt hullet>
+     17 <Ta lim på bøtelapp>
+     18 <Ta lim rundt hullet>
+     19 <La limet på delene tørke i N minutter>
+     20 <Fest bøtelapp over hullet>
+     21 <La tørke i N minutter/timer>
+     22 <Smett slange på plass igjen.
+     23 <Skru på festering og ventil>
+     24 <Smett dekket på plass>
+     25 <Fyll slangen med luft - til dekket er "knallhardt">
+     26 <Skru/klips på hjulet igjen>
+
+
+
+c) gjøre innkjøp i en matbutikk (etter en handlelapp) samt å betale i kassa:
+     ..............
+     ..............
+     ..............
+     ..............
