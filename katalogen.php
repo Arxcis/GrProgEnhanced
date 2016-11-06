@@ -1,16 +1,15 @@
 
 
 <?php
-	$folders = [
-
+	$folders = array(
 		'eksempel',
 		'extra',
 		'extramen',
 		'uke_oppg',
 		'uke_losn' 
-		];
+		);
 
-	echo 'This is PHP script2';
+	echo 'This is PHP script';
 ?>
 
 <html>
@@ -20,24 +19,17 @@
 	    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
+
 	<body>
 	<div class="filcontainer">
 		
-		<?php 
+		<?php
 
-		$len = count($folders);
+		foreach ($folders as $folder) {
 
- 		for ($i = 0; $i < $len; $i++) {
-
- 			$folders[$i];
- 		
+			echo '<h2>' . $folder . '</h2><br/>';
 		}
-
-/*			$files = scandir('katalogen/' + $folder);
-			foreach ($files as $file) {
-			}
-*/
-
+ 		// $files = scandir('katalogen/' + $folder); 
 
 		?>
 
