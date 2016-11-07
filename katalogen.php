@@ -1,6 +1,5 @@
 
 <DOCTYPE html5>
-
 <?php
 	$folders = array(
 		'1_eksempel',
@@ -9,7 +8,6 @@
 		'4_uke_oppg',
 		'5_uke_losn' 
 		);
-
 ?>
 
 <html>
@@ -18,23 +16,25 @@
 	    <title> Katalogen </title>
 	    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+    	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
     	<script type="text/javascript">
 		
 			function collapseFiles(ele) {
 				var next = ele.nextSibling;
-				
-				var files = next.getElementsByClassName('file');
 
-				for (i=0; i< files.length; i++){
+				var childs = next.childNodes;
 
-					if (files[i].style.display == 'flex')
-						files[i].style.display = 'none';
-					else 
-						files[i].style.display = 'flex';
+				for(i=0; i<childs.length; i++) {
 
+					console.log(childs[i].style.display);
+					if (childs[i].style.display != 'none') {
+						childs[i].style.display = 'none';
+					}
+					else
+						childs[i].style.display = 'flex';
 				}
-
+				
 			}
 		</script>
 
@@ -47,9 +47,17 @@
 
 		foreach ($folders as $folder) {
 
-			echo '<div style="cursor: hand; "onclick="collapseFiles(this)"><h2 class="fileheader">' . $folder . '</h2></div>';
-			$files = scandir('katalogen/' . $folder);
 
+			$formFolder = preg_replace('/\d_/is', '', $folder);
+			$formFolder = ucfirst($formFolder);
+
+			echo '<div class="fileheader" onclick="collapseFiles(this)"> 
+			<h2>' . $formFolder . '<i class="fa fa-chevron-down" aria-hidden="true"></i> 
+			</h2> 
+			</div>';
+			$files = scandir('katalogen/' . $folder);
+			
+			echo '<div class="filewrapper">';
 			echo '<div class="lefiles">';	
 												// Fill container with file-squares
 			foreach($files as $file) {
@@ -58,9 +66,10 @@
 				}
 
 				$fullpath = 'katalogen' . DIRECTORY_SEPARATOR . $folder . DIRECTORY_SEPARATOR . $file;
-				echo '<a href="' . $fullpath . '"><div class="file">' . $file . '</div></a>'; 
+				echo '<div class="file" onclick="location.href=\''.$fullpath.'\'">' . $file . '</div>'; 
 			}
 
+			echo '</div>';
 			echo '</div>';
 		}	
 		?>

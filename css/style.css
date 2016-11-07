@@ -1,4 +1,10 @@
+/*  --- GLOBALS --- */
+:root {
 
+    --main-white: #ecf0f1;
+    --main-blue: #34495e;
+    --main-lightblue: #7399d6;
+}
 
 html, body {
     height:100%;
@@ -8,19 +14,18 @@ html, body {
 body {
     display:flex;
     justify-content: flex-start;
-    background-color: #ecf0f1;
+    background-color: var(--main-white);
     flex-direction: column;
-
 }
 
 header {
-    background-color: #34495e;
-    color: #ecf0f1;
+    background-color: var(--main-blue);
+    color: var(--main-white);
     text-align: center;
     flex: .3;
+    border-radius: 5px;
+    padding:4px;
 }
-
-
 
 .mainblock {
     display:flex;
@@ -43,20 +48,21 @@ nav {
     cursor: none;
 }
 .navitem {
-    font-size: 25px;
+    font-size: 20px;
     margin: 5px;
     padding: 5px;
+    border-radius: 5px;
 
 }
 .navitem:hover {
     cursor: hand;
-    background-color: #34495e;
-    color: #ecf0f1;
+    background-color: var(--main-blue);
+    color: var(--main-white);
 }
 
 .activeNav {
-    background-color: #34495e;
-    color: #ecf0f1;
+    background-color: var(--main-blue);
+    color: var(--main-white);
 }
 
 a {
@@ -67,33 +73,72 @@ a {
 
  /* Files */ 
 
-.lefiles {
-    flex: 6;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
+.fileview {
 
-.file {
-    width:150px;
-    height:150px;
-    background-color: #34495e;
-    border-radius: 10px;
-    margin:5px;
-    padding:10px;
-    color: white;
-    display: none;
+/*  --- Flexbox --- */
+    display:flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    cursor: hand;
-    font-size: 20px;
-}
+}   
 
-.fileheader {
-    text-align: center;
-    background-color: white;
-    border-radius: 5px;
-    padding: 10px;
+    .fileheader {
+    /*    --- CSS ---   */
+        cursor: hand;
 
-}
+    /*  --- Flexbox --- */
+        display:flex;
+        flex-direction: column;
+    }
+    .fileheader h2 .fa {
+        margin-left: 15px;
+        
+    }
+
+        .fileheader h2 {
+        /*    --- CSS ---   */
+            text-align: center;
+            background-color: var(--main-blue);
+            border-radius: 5px;
+            padding: 10px;
+            color: var(--main-white);
+            width: 90%;
+            align-self:center;
+        }
+
+    .filewrapper{
+
+        display:flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+        .lefiles {
+        /*  --- Flexbox --- */
+            display: flex;
+            flex: 0 1 800px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: center;
+
+        }
+
+            .file {
+            /*    --- CSS ---   */
+
+                width:150px;
+                height:auto;
+                min-height: 25px;
+                background-color:var(--main-lightblue);
+                border-radius: 10px;
+                margin: 4px 20px 4px 20px;
+                padding:5px;
+                color: var(--main-white);
+                cursor: hand;
+                font-size: 16px;
+
+            /*  --- Flexbox --- */
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+
