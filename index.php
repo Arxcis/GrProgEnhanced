@@ -59,8 +59,8 @@
     }
 
         // Inital active navgation path and element ID
-    initPath    = 'katalogen.php';
-    initElement = 'nav9';
+    initPath    = 'http://folk.ntnu.no/frh/grprog/plan.html';
+    initElement = 'nav1';
 
 
     // ---------- MAIN ------
