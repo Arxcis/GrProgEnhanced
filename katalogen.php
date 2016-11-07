@@ -1,13 +1,12 @@
-
-
+<DOCTYPE html5>
 <?php 
-	$folders = array(
+	$folders = [
 		'eksempel',
 		'extra',
 		'extramen',
 		'uke_oppg',
 		'uke_losn',
-	);
+	];
 	echo 'This is PHP script2';
 ?>
 
