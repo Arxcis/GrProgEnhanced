@@ -10,13 +10,13 @@
 <body>
 
     <header>
-        <h1>IMT1031 - GrProg enhanced</h1>
+        <h1>IMT1031 - GrProg Enhanced</h1>
     </header>
 
     <div class="mainblock">
         <nav>  
             <br/> 
-            <div id="nav1" class="navitem activeNav" onclick="switchView(this)">Forelesninger</div>
+            <div id="nav1" class="navitem" onclick="switchView(this)">Forelesninger</div>
             <div id="nav2" class="navitem" onclick="switchView(this)">Oppgaver</div>
             <div id="nav3" class="navitem" onclick="switchView(this)">Obliger</div>
             <div id="nav4" class="navitem" onclick="switchView(this)">Pensum</div>
@@ -32,17 +32,18 @@
         </nav>
 
         <main>
-            <iframe id="leframe" src="http://folk.ntnu.no/frh/grprog/plan.html" 
+            <iframe id="leframe" 
                 height="99%" width="99%"></iframe>
         </main>
 
     </div>
+
 </body>
-</html>
 
 <script type="text/javascript">
 
-    var hrefs = {
+    // ------------ CONFIG ATTRIBUTES ---------------
+    hrefs = {
 
         'nav1' : 'http://folk.ntnu.no/frh/grprog/plan.html' ,
         'nav2' : 'http://folk.ntnu.no/frh/grprog/uke_oppg.html',
@@ -57,23 +58,30 @@
         'nav11': 'http://folk.ntnu.no/frh/grprog/bok_feil.html',
     }
 
-    var activeNav = document.getElementById('nav1');
+        // Inital active navgation path and element ID
+    initPath    = 'katalogen.php';
+    initElement = 'nav9';
 
+
+    // ---------- MAIN ------
+    var activeNav = document.getElementById(initElement);
+    var frame     = document.getElementById('leframe');
+
+    activeNav.className = "navitem activeNav";
+    frame.setAttribute('src', initPath);
 
     function switchView(nav) {
 
 
         var id = nav.getAttribute('id');
-
-        var frame  = document.getElementById('leframe');
         frame.setAttribute('src', hrefs[id]);
 
-
-        if(activeNav)
-            activeNav.className = "navitem";
+        activeNav.className = "navitem";
         nav.className = "navitem activeNav";
         activeNav = nav;
     }
 
 
 </script>
+
+</html>
