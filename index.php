@@ -8,9 +8,11 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	</head>
 	<body>
-		<header>S<font color="#FE7E5A">O</font>LDATA | <small>Solsvik Datateknikk</small></header>
+			<header>
+				S<font color="#FE7E5A">O</font>LDATA | <small>Solsvik Datateknikk</small>
+			</header>
 
-			<section class="playerinfo">
+			<main class="playerinfo">
 				<img class="img" src="media/headshot2.png" width="216"  height="236"/>
 				<div class="info">
 					<h3>Enkeltmannsforetak</h3>
@@ -20,15 +22,14 @@
 					<p>Studieretning&nbsp;:&nbsp;Pr<font color="#FE7E5A">o</font>grammering [ APP|SPILL ] </p>
 					<p>Base&nbsp;:&nbsp; NTNU Gjøvik, Oppland</p>
 				</div>
-			</section>
+			</main>
 
 			<footer class="kontaktinfo">
 				<div class="lineinfo"> 45 20 08 64&nbsp;&nbsp; |
 				 &nbsp;&nbsp; s<font color="#FE7E5A">o</font>lsvikdata@gmail.com &nbsp;&nbsp; |
 				 &nbsp;&nbsp;Snorres Veg 2, 2816 Gjøvik
 				</div>
+			</footer>
 
-			</section>
-		</div>
 	</body>
 </html>
