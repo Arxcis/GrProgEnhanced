@@ -13,11 +13,11 @@
 			</header>
 
 			<main class="playerinfo">
-				<img class="img" src="media/headshot2.png" width="216"  height="236"/>
+				<img class="img" src="media/headshot2.png"/>
 				<div class="info">
 					<h3>Enkeltmannsforetak</h3>
 					<p>Navn&nbsp;:&nbsp;Jonas Johan Solsvik</p>
-					<p>Tittel&nbsp;:&nbsp;IT mester / Idéutvikler</p>
+					<p>Tittel&nbsp;:&nbsp;IT-mester / Idéutvikler</p>
 					<p>Alder&nbsp;:&nbsp;25 år</p>
 					<p>Studieretning&nbsp;:&nbsp;Pr<font color="#FE7E5A">o</font>grammering [ APP|SPILL ] </p>
 					<p>Base&nbsp;:&nbsp; NTNU Gjøvik, Oppland</p>

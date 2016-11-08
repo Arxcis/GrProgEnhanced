@@ -41,7 +41,7 @@ header {
 	display: flex;
 }
 
-.playerinfo img {height: 260px; width: 220px;}
+.playerinfo img {height: 260px;}
 
 .info {
 	margin: 8px 20px 20px 40px;
