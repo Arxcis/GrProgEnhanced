@@ -1,0 +1,79 @@
+
+
+
+html {
+	font-family: 'Open Sans';
+	
+	/* flexbox */		
+	display:flex;
+}
+
+body {
+	background-color: #443E52 ;
+
+
+	/* flexbox */
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+header {
+	text-align: center;
+	background-color: #DFD8D6;
+	font-size: 40px;
+	border-bottom: 1px solid #9A9199;
+	padding:10px 10px 15px 10px;
+	margin-bottom: 20px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+
+/* Playerinfo card*/
+
+.playerinfo {
+	flex: 1;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: #DFD8D6;
+	margin: 10px;
+	display: flex;
+}
+
+.playerinfo img {height: 260px; width: 220px;}
+
+.info {
+	margin: 8px 20px 20px 40px;
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+.info p {
+	margin: 2px;
+	font-size: 18px;}
+
+.info h3 {
+	margin-bottom: 10px;
+	font-size: 22px;
+	border-bottom: 1px solid #9A9199;
+	padding-bottom: 10px;
+}
+
+
+/* Kontaktinfo */
+
+.kontaktinfo {
+
+
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: #DFD8D6; 
+	margin: 20px 10px 10px 10px;
+
+	flex: 1;
+}
+
+.lineinfo { text-align: center;
+			padding: 10px 5px 10px 5px; }
+
