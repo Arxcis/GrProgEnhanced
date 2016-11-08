@@ -25,7 +25,7 @@
 			<footer class="kontaktinfo">
 				<div class="lineinfo"> 45 20 08 64&nbsp;&nbsp; |
 				 &nbsp;&nbsp; s<font color="#FE7E5A">o</font>lsvikdata@gmail.com &nbsp;&nbsp; |
-				 &nbsp;&nbsp;Snrres Veg 2, 2816 Gjøvik
+				 &nbsp;&nbsp;Snorres Veg 2, 2816 Gjøvik
 				</div>
 
 			</section>
