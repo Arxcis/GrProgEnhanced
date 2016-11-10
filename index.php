@@ -19,7 +19,7 @@
 					<p>Navn&nbsp;:&nbsp;Jonas Johan Solsvik</p>
 					<p>Tittel&nbsp;:&nbsp;IT-mester / Idéutvikler</p>
 					<p>Alder&nbsp;:&nbsp;25 år</p>
-					<p>Studieretning&nbsp;:&nbsp;Pr<font color="#FE7E5A">o</font>grammering [ APP|SPILL ] </p>
+					<p>Studieretning&nbsp;:&nbsp;Programmering [ APP | SPILL ] </p>
 					<p>Base&nbsp;:&nbsp; NTNU Gjøvik, Oppland</p>
 				</div>
 			</main>
