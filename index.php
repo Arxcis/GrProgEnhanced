@@ -1,15 +1,18 @@
 
-<DOCTYPE html5>
+<!DOCTYPE html5>
 <html>
 	<head>
 		<meta charset="utf-8"/>
 		<title>SOLDATA | Solsvik Datateknikk</title>
 		<link rel="stylesheet" type="text/css" href="css/index.css"/>
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
 	</head>
 	<body>
 			<header>
-				S<font color="#FE7E5A">O</font>LDATA | <small>Solsvik Datateknikk</small>
+				S
+				<font color="#FE7E5A">O</font>
+				LDATA | 
+				<small>Solsvik Datateknikk</small>
 			</header>
 
 			<main class="playerinfo">
