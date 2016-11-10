@@ -18,12 +18,25 @@ function DOMhtml(){
 
 }
 
+function fetchHTML($url) {
+
+	$ch = curl_init($url);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
+	curl_setopt($ch, CURLOPT_AUTOREFERER, TRUE);
+	$result = curl_exec($ch);
+
+	return $result;
+}
+
+
 // -- TASK 2 -- 
 function htmlToXML($url, $local_path){
 
 	$html  = new DOMDocument();
 	$ohtml = new DOMDocument('1.0', 'utf-8');
-	@$html->loadHTML(file_get_contents($url));
+
+	@$html->loadHTML(fetchHTML($url));
 
 	$tds = $html->getElementsByTagName('tr');		
 							// PHP_EOL and DIRECTORY_SEPARATOR is awsm
@@ -71,15 +84,12 @@ function constructReturn($xdoc, $name){
 $url = 'http://folk.ntnu.no/frh/grprog/obliger/godkjent.html';  
 $local_path = 'dump.html';
 
-echo phpinfo();
+//echo phpinfo();
 
 $name = handleGET();			    	// Step 1
 htmlToXML($url, $local_path);	     	// Step 2
 $xml = loadXML($local_path);		    // Step 3
 echo constructReturn($xml, $name);	    // Step 4
-
-
-
 
 
 
