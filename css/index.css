@@ -14,7 +14,7 @@ body {
 	/* flexbox */
 
 	display: flex;
-	flex: 0 1 700px;
+
 	flex-direction: column;
 	justify-content: center;
 
