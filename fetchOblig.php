@@ -5,7 +5,7 @@
 
 function handleGET() {
 	// ----- Easy get request handling ----
-	$name = $_GET['navn'];
+	$name = $_GET['name'];
 	if(empty($name)) 
 			{ die('Byebye'); }
 
@@ -98,6 +98,7 @@ function createElementWithText($parent, $tag, $text) {
 
     $textNode  = $parent ->createTextNode( $text );
     $element   = $parent ->createElement ( $tag  );
+    $element->setAttribute('style', 'color: white;');
     $element             ->appendChild   ( $textNode );
     $parent              ->appendChild   ( $element  ); 
 
