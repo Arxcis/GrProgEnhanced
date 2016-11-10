@@ -71,6 +71,7 @@ function constructReturn($xdoc, $name){
 $url = 'http://folk.ntnu.no/frh/grprog/obliger/godkjent.html';  
 $local_path = 'dump.html';
 
+echo phpinfo();
 
 $name = handleGET();			    	// Step 1
 htmlToXML($url, $local_path);	     	// Step 2
